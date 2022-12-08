@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Zandalia",
+        "marca": "Puro",
+        "modelo": "Nini Aretha",
+        "precio": 6000,
+        "stock": 30,
+        "img": "Imagen9.JPG"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Zapatilla",
+        "marca": "Puro",
+        "modelo": "Ochenta y Seis",
+        "precio": 3500,
+        "stock": 20,
+        "img": "Imagen8.JPG"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Botita",
+        "marca": "Puro",
+        "modelo": "Llanera Arrayan",
+        "precio": 5700,
+        "stock": 15,
+        "img": "Imagen7.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Ojota",
+        "marca": "Puro",
+        "modelo": "Chismosa Acuario",
+        "precio": 8000,
+        "stock": 30,
+        "img": "Imagen1.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Bolso",
+        "marca": "Puro",
+        "modelo": "Llave Mora",
+        "precio": 1400,
+        "stock": 7,
+        "img": "Imagen4.JPG"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Cartera",
+        "marca": "Puro",
+        "modelo": "Nueva Roma Black",
+        "precio": 4000,
+        "stock": 20,
+        "img": "Imagen3.JPG"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Bolso",
+        "marca": "Puro",
+        "modelo": "Lennon China 1",
+        "precio": 2500,
+        "stock": 10,
+        "img": "Imagen2.JPG"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Mochila",
+        "marca": "Puro",
+        "modelo": "Trenia Nahui",
+        "precio": 4500,
+        "stock": 30,
+        "img": "Imagen5.JPG"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Mochila",
+        "marca": "Puro",
+        "modelo": "Trenia Selvatica",
+        "precio": 3400,
+        "stock": 21,
+        "img": "Imagen6.JPG"
+    }
+
+]

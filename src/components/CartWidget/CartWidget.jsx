@@ -1,13 +1,14 @@
-import React from 'react';
 
 const CartWidget = () => {
+
     return (
-        <ul className="navbar-nav me-auto">
-            <li className="nav-link">
-                <button className="btn btn-dark">Carrito</button>
-            </li>
-            <p>0</p>
-        </ul>
+        <>
+            <button className="btn btn-secondary cartWidget">
+                    <i className="fas fa-shopping-cart fa-lg"></i>
+                        <span className="cantCarrito">0</span>
+            </button>
+
+        </>
     );
 }
 
