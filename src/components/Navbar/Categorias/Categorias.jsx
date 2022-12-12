@@ -7,17 +7,17 @@ const Categorias = () => {
                         </li>
                         <li className="nav-link">
 
-                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/1"}>Calzados</Link></button>
+                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/calzados"}>Calzados</Link></button>
 
                         </li>
                         <li className="nav-link">
 
-                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/2"}>Bolsos y Carteras</Link></button>
+                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/bolsos-carteras"}>Bolsos y Carteras</Link></button>
 
                         </li>
                         <li className="nav-link">
 
-                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/3"}>Mochilas</Link></button>
+                                <button className='btn btn-secondary'><Link className="nav-link" to={"/category/mochilas"}>Mochilas</Link></button>
 
                         </li>
                 </ul>

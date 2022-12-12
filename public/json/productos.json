@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "idCategoria": 1,
+        "id": "nini-aretha",
+        "idCategoria": "calzados",
         "nombre": "Zandalia",
         "marca": "Puro",
         "modelo": "Nini Aretha",
@@ -10,8 +10,8 @@
         "img": "Imagen9.JPG"
     },
     {
-        "id": 2,
-        "idCategoria": 1,
+        "id": "ochenta-y-seis",
+        "idCategoria": "calzados",
         "nombre": "Zapatilla",
         "marca": "Puro",
         "modelo": "Ochenta y Seis",
@@ -20,8 +20,8 @@
         "img": "Imagen8.JPG"
     },
     {
-        "id": 3,
-        "idCategoria": 1,
+        "id": "llanera-arrayan",
+        "idCategoria": "calzados",
         "nombre": "Botita",
         "marca": "Puro",
         "modelo": "Llanera Arrayan",
@@ -30,8 +30,8 @@
         "img": "Imagen7.jpg"
     },
     {
-        "id": 4,
-        "idCategoria": 1,
+        "id": "chismosa-acuario",
+        "idCategoria": "calzados",
         "nombre": "Ojota",
         "marca": "Puro",
         "modelo": "Chismosa Acuario",
@@ -40,8 +40,8 @@
         "img": "Imagen1.jpg"
     },
     {
-        "id": 5,
-        "idCategoria": 2,
+        "id": "llave-mora",
+        "idCategoria": "bolsos-carteras",
         "nombre": "Bolso",
         "marca": "Puro",
         "modelo": "Llave Mora",
@@ -50,8 +50,8 @@
         "img": "Imagen4.JPG"
     },
     {
-        "id": 6,
-        "idCategoria": 2,
+        "id": "nueva-roma-black",
+        "idCategoria": "bolsos-carteras",
         "nombre": "Cartera",
         "marca": "Puro",
         "modelo": "Nueva Roma Black",
@@ -60,8 +60,8 @@
         "img": "Imagen3.JPG"
     },
     {
-        "id": 7,
-        "idCategoria": 2,
+        "id": "lennon-china-1",
+        "idCategoria": "bolsos-carteras",
         "nombre": "Bolso",
         "marca": "Puro",
         "modelo": "Lennon China 1",
@@ -70,8 +70,8 @@
         "img": "Imagen2.JPG"
     },
     {
-        "id": 8,
-        "idCategoria": 3,
+        "id": "trenia-nahui",
+        "idCategoria": "mochilas",
         "nombre": "Mochila",
         "marca": "Puro",
         "modelo": "Trenia Nahui",
@@ -80,8 +80,8 @@
         "img": "Imagen5.JPG"
     },
     {
-        "id": 9,
-        "idCategoria": 3,
+        "id": "trenia-selvatica",
+        "idCategoria": "mochilas",
         "nombre": "Mochila",
         "marca": "Puro",
         "modelo": "Trenia Selvatica",
