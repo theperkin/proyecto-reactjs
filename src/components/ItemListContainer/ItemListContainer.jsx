@@ -21,10 +21,10 @@ const ItemListContainer = () => {
                     setProductos(cardProductos)
                 })
             }
-            /*getProducto("EVvm8EQJdLIUi3piXxEA").then(prod => {
-                prod.stock -= 16
+            /*getProducto("4MEvPtOR0dlZcrRH5hDn").then(prod => {
+                prod.stock += 100
                 delete prod.id
-                updateProducto("EVvm8EQJdLIUi3piXxEA", prod).then(estado => console.log(estado))
+                updateProducto("4MEvPtOR0dlZcrRH5hDn", prod).then(estado => console.log(estado))
             })*/
             
             //deteleProducto("4MEvPtOR0dlZcrRH5hDn").then(estado => console.log(estado))
