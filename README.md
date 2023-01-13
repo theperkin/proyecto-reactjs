@@ -18,4 +18,4 @@ npm i
 
 ##Testing
 
-![alt text]()
+![alt text](https://github.com/theperkin/proyecto-reactjs/blob/master/docs/prueba.gif)
