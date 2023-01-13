@@ -7,7 +7,7 @@
         "modelo": "Nini Aretha",
         "precio": 6000,
         "stock": 30,
-        "img": "Imagen9.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen9.JPG?alt=media&token=99e6d9df-cd7b-49e2-be6e-3d084887e285"
     },
     {
         "id": "ochenta-y-seis",
@@ -17,7 +17,7 @@
         "modelo": "Ochenta y Seis",
         "precio": 3500,
         "stock": 20,
-        "img": "Imagen8.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen8.JPG?alt=media&token=2dd89edc-0c99-45e1-a1b0-4c804b3c8a34"
     },
     {
         "id": "llanera-arrayan",
@@ -27,7 +27,7 @@
         "modelo": "Llanera Arrayan",
         "precio": 5700,
         "stock": 15,
-        "img": "Imagen7.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen7.jpg?alt=media&token=745e0d1b-16b6-46ba-88ba-f5f4d6e551a3"
     },
     {
         "id": "chismosa-acuario",
@@ -37,7 +37,7 @@
         "modelo": "Chismosa Acuario",
         "precio": 8000,
         "stock": 30,
-        "img": "Imagen1.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen1.jpg?alt=media&token=4a57999f-6f86-4dc8-944e-a3bc6f78a3e2"
     },
     {
         "id": "llave-mora",
@@ -47,17 +47,17 @@
         "modelo": "Llave Mora",
         "precio": 1400,
         "stock": 7,
-        "img": "Imagen4.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen4.JPG?alt=media&token=98a56172-39d0-4e8d-b0ec-316867f2c66a"
     },
     {
         "id": "nueva-roma-black",
         "idCategoria": "bolsos-carteras",
         "nombre": "Cartera",
         "marca": "Puro",
-        "modelo": "Nueva Roma Black",
+        "modelo": "Nueva Roma",
         "precio": 4000,
         "stock": 20,
-        "img": "Imagen3.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen3.JPG?alt=media&token=f77d22ad-1fce-467f-a3d2-1941d4eca190"
     },
     {
         "id": "lennon-china-1",
@@ -67,7 +67,7 @@
         "modelo": "Lennon China 1",
         "precio": 2500,
         "stock": 10,
-        "img": "Imagen2.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen2.JPG?alt=media&token=a7e9665d-1984-49d7-ad54-4e6315e3d406"
     },
     {
         "id": "trenia-nahui",
@@ -77,7 +77,7 @@
         "modelo": "Trenia Nahui",
         "precio": 4500,
         "stock": 30,
-        "img": "Imagen5.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen5.JPG?alt=media&token=5e63eb88-0a19-4047-955b-f52dfa1a4412"
     },
     {
         "id": "trenia-selvatica",
@@ -87,7 +87,7 @@
         "modelo": "Trenia Selvatica",
         "precio": 3400,
         "stock": 21,
-        "img": "Imagen6.JPG"
+        "img": "https://firebasestorage.googleapis.com/v0/b/e-commerce-41100.appspot.com/o/Imagen6.JPG?alt=media&token=e67d0244-28a7-46d0-9fed-062888b138d8"
     }
 
 ]
